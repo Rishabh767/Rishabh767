@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh767
-- 👀 I’m interested in Kotlin,Java ,JS
-- 🌱 I’m currently learning Website Development
+- 👀 I’m interested in Web Dev & App Dev
+- 🌱 I’m currently learning App Dev- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
